@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Makana Edwards from Jacksonville, Florida and I'm a web/software development.
 
-Skills: NodeJS / Express / React /  Django / Python / Heroku / MySQL / AWS S3 / JS / HTML / CSS
+<b>Skills:</b> NodeJS | Express | Compress |  Django | Python | Heroku | MySQL | AWS S3 | JavaScript | HTML | CSS
 
 - 🔭 I’m currently working on building my portfolio 
 - 🌱 I’m currently learning Full Stack development and UI design 
