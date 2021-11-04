@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Makana Edwards from Jacksonville, Florida. I have interest in web/software development.
+My name is Makana Edwards from Jacksonville, Florida and I'm a web/software development.
 
 Skills: NodeJS / Express / React /  Django / Python / Heroku / MySQL / AWS S3 / JS / HTML / CSS
 
