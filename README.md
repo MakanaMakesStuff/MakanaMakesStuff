@@ -19,7 +19,8 @@ Turn is a 2D casual game that involves progressively difficult levels and a uniq
 <img src="https://play-lh.googleusercontent.com/obvC250wocwxbcI1Vi15DuwKQdwtuI0EZV2Y_2-4Xm4uwagigVbro2zbyFkur26pWiA=w2568-h5556" width="32%" height="auto"/>
 <img src="https://play-lh.googleusercontent.com/BVcYTivtjpyhabGG2-TXWwgmvq2QyP-Dk-rSL6TrVFBcdeRmPI6b3z2KlQyaKTzlyg=w2568-h5556" width="32%" height="auto"/>
 </p>
-![Learn more](https://play.google.com/store/apps/details?id=com.Makri.Turn)
+
+<a href="https://play.google.com/store/apps/details?id=com.Makri.Turn">Learn more</a>
 
 #### Msort.js
 Style your image gallery in a beautiful mosaic format with one line of code(Not Ratio Algorithm)
@@ -27,4 +28,4 @@ Style your image gallery in a beautiful mosaic format with one line of code(Not 
 <img src="https://i.imgur.com/zmGYXvB.jpg" width="80%" height="auto"/>
 </p>
 
-![Learn more](https://github.com/MakanaMakesStuff/msort)
+<a href="https://github.com/MakanaMakesStuff/msort">Learn more</a>
