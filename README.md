@@ -55,4 +55,4 @@ I initially deployed my website onto heroku, but later decided that the dependen
 
 <a href="https://makanamakesstuff.github.io/makanaedwards/">GitHub host</a>
 
-<a href="https://makanaedwards.herokuapp.com">Heroku host(overheard. Really slow)</a>
+<a href="https://makanaedwards.herokuapp.com">Heroku host(Free Tier. Really slow)</a>
