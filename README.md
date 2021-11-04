@@ -20,6 +20,8 @@ Turn is a 2D casual game that involves progressively difficult levels and a uniq
 <img src="https://play-lh.googleusercontent.com/BVcYTivtjpyhabGG2-TXWwgmvq2QyP-Dk-rSL6TrVFBcdeRmPI6b3z2KlQyaKTzlyg=w2568-h5556" width="32%" height="auto"/>
 </p>
 
+<b>Technologies</b>: Unity3D, Unity Ads, C#, JavaScript, Photoshop
+
 <a href="https://play.google.com/store/apps/details?id=com.Makri.Turn">Learn more</a>
 
 #### Msort.js
@@ -28,6 +30,8 @@ Style your image gallery in a beautiful mosaic format with one line of code(Not 
 <img src="https://i.imgur.com/zmGYXvB.jpg"/>
 </p>
 
+<b>Technologies</b>: JavaScript, Git, Git CLI
+
 <a href="https://github.com/MakanaMakesStuff/msort">Learn more</a>
 
 #### TypeOut.js
@@ -35,5 +39,7 @@ Add stylization and dynamic appeal to text on your webpage. TypeOut.js will type
 <p align="center">
 <img src="https://i.imgur.com/bCatmjH.gif"/>
 </p>
+
+<b>Technologies</b>: JavaScript, Django, Python, Heroku, Heroku CLI, Git, Git CLI, Html + Css
 
 <a href="https://typeoutjs.herokuapp.com/home/">Learn more</a>
