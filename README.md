@@ -45,11 +45,14 @@ Add stylization and dynamic appeal to text on your webpage. TypeOut.js will type
 <a href="https://typeoutjs.herokuapp.com/home/">Learn more</a>
 
 #### Online Portfolio
-This is my online portfolio that I have hosted on GitHub pages(with functional contact form)
+This is my online portfolio that I have hosted on heroku and also GitHub pages(with functional contact form)
+I initially deployed my website onto heroku, but later decided that the dependencies combined with Heroku's limitations were unnecessary for a simple portfolio site. So I also deployed on GitHub pages.
 <p align="center">
 <img width="50%" src="https://i.imgur.com/e6NTHG3_d.webp?maxwidth=640&shape=thumb&fidelity=medium"/>
 </p>
 
-<b>Technologies</b>: JavaScript, Django, Python, Heroku, Heroku CLI, Git, Git CLI, Html + Css
+<b>Technologies</b>: JavaScript, NodeJS, Express, Compress, Heroku, Heroku CLI, Git, Git CLI, Html + Css, Google Forms
 
-<a href="https://typeoutjs.herokuapp.com/home/">Learn more</a>
+<a href="https://makanamakesstuff.github.io/makanaedwards/">GitHub host</a>
+
+<a href="https://makanaedwards.herokuapp.com">Heroku host(overheard. Really slow)</a>
