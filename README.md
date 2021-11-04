@@ -25,7 +25,16 @@ Turn is a 2D casual game that involves progressively difficult levels and a uniq
 
 <b>Technologies</b>: Unity3D, Unity Ads, C#, JavaScript, Photoshop
 
-<a href="https://play.google.com/store/apps/details?id=com.Makri.Turn">Learn more</a>
+#### Instagram Bot
+This software allows a user to automatically like and follow other Instagram users that post under certain hashtags. For example, I could specify that I want to engage with people who like the hashtag #anime. The bot will then open up that hashtag and retrieve the most recent post. Then the bot will like/follow each post and user of the post respectively.
+
+<p>
+<img src="https://www.vflbenrath06.de/wp-content/uploads/2019/04/Instagram-Banner-Logo-de-Instagram-vector-logo-instagram-sin-fondo-1000x480.gif"/>
+</p>
+
+<b>Technologies</b>: Python, Selenium, Chrome Driver
+
+<a href="https://github.com/MakanaMakesStuff/Instagram-bot/">Learn more</a>
 
 #### Msort.js
 Style your image gallery in a beautiful mosaic format with one line of code(Not Ratio Algorithm)
