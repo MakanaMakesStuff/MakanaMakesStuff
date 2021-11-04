@@ -13,9 +13,9 @@ Skills: NodeJS / Express / React /  Django / Python / Heroku / MySQL / AWS S3 / 
 
 #### Turn
 Turn is a 2D casual game that involves progressively difficult levels and a unique gameplay mechanic
-<img src="https://play-lh.googleusercontent.com/Jpt_RtpiyPYvHBYeQ5f9WUCfs5oCV7NBqSMpefCyJBCiqxEbcimDrNGKqBEcMAryAg=w856-h440" width="32%" height="auto"/>
-<img src="https://play-lh.googleusercontent.com/obvC250wocwxbcI1Vi15DuwKQdwtuI0EZV2Y_2-4Xm4uwagigVbro2zbyFkur26pWiA=w2568-h5556" width="32%" height="auto"/>
-<img src="https://play-lh.googleusercontent.com/BVcYTivtjpyhabGG2-TXWwgmvq2QyP-Dk-rSL6TrVFBcdeRmPI6b3z2KlQyaKTzlyg=w2568-h5556" width="32%" height="auto"/>
+<img src="https://play-lh.googleusercontent.com/Jpt_RtpiyPYvHBYeQ5f9WUCfs5oCV7NBqSMpefCyJBCiqxEbcimDrNGKqBEcMAryAg=w856-h440" width="31.5%" height="auto"/>
+<img src="https://play-lh.googleusercontent.com/obvC250wocwxbcI1Vi15DuwKQdwtuI0EZV2Y_2-4Xm4uwagigVbro2zbyFkur26pWiA=w2568-h5556" width="31.5%" height="auto"/>
+<img src="https://play-lh.googleusercontent.com/BVcYTivtjpyhabGG2-TXWwgmvq2QyP-Dk-rSL6TrVFBcdeRmPI6b3z2KlQyaKTzlyg=w2568-h5556" width="31.5%" height="auto"/>
 
 ![Learn more](https://play.google.com/store/apps/details?id=com.Makri.Turn)
 
