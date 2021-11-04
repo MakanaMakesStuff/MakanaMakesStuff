@@ -25,7 +25,15 @@ Turn is a 2D casual game that involves progressively difficult levels and a uniq
 #### Msort.js
 Style your image gallery in a beautiful mosaic format with one line of code(Not Ratio Algorithm)
 <p align="center">
-<img src="https://i.imgur.com/zmGYXvB.jpg" width="80%" height="auto"/>
+<img src="https://i.imgur.com/zmGYXvB.jpg"/>
 </p>
 
 <a href="https://github.com/MakanaMakesStuff/msort">Learn more</a>
+
+#### TypeOut.js
+Add stylization and dynamic appeal to text on your webpage. TypeOut.js will type out any specified text at an inputted speed.
+<p align="center">
+<img src="https://i.imgur.com/bCatmjH.gif"/>
+</p>
+
+<a href="https://typeoutjs.herokuapp.com/home/">Learn more</a>
