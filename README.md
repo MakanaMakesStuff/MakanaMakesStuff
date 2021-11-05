@@ -12,7 +12,7 @@ My name is Makana Edwards from Jacksonville, Florida and I'm a web/software deve
 - 👯 I’m looking to collaborate on any website, software, or game. 
 - 📫 How to reach me: makrigamedeveloping@gmail.com
 
-### recent projects
+### Recent Projects
 
 #### Turn
 Turn is a 2D casual game that involves progressively difficult levels and a unique gameplay mechanic
