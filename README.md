@@ -75,8 +75,10 @@ I initially deployed my website onto heroku, but later decided that the dependen
 
 ### Current Projects
 
-#### Black Bricks
+#### Black Bricks(Design)
 An online coffee brand that personalizes coffee and makes it appealing to the individual rather than the generic masses. This personalization serves to make buying coffee an engaging experience for every user. 
 <p align="center">
 <img width="50%"  src="https://i.imgur.com/1wRsUJM.jpg"/>
 </p>
+
+<b> Technologies</b>: Clip Studio Paint(Photoshop Alternative)
