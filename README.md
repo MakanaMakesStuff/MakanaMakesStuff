@@ -25,7 +25,7 @@ Turn is a 2D casual game that involves progressively difficult levels and a uniq
 
 <b>Technologies</b>: Unity3D, Unity Ads, C#, JavaScript, Photoshop
 
-<a href="https://play.google.com/store/apps/details?id=com.Makri.Turn">Learn more</a>
+<a href="https://play.google.com/store/apps/details?id=com.Makri.Turn" target="_blank">Learn more</a>
 
 #### Instagram Bot
 This software allows a user to automatically like and follow other Instagram users that post under certain hashtags. For example, I could specify that I want to engage with people who like the hashtag #anime. The bot will then open up that hashtag and retrieve the most recent post. Then the bot will like/follow each post and user of the post respectively.
@@ -36,7 +36,7 @@ This software allows a user to automatically like and follow other Instagram use
 
 <b>Technologies</b>: Python, Selenium, Chrome Driver
 
-<a href="https://github.com/MakanaMakesStuff/Instagram-bot/">Learn more</a>
+<a href="https://github.com/MakanaMakesStuff/Instagram-bot/" target="_blank">Learn more</a>
 
 #### Msort.js
 Style your image gallery in a beautiful mosaic format with one line of code(Not Ratio Algorithm)
@@ -46,7 +46,7 @@ Style your image gallery in a beautiful mosaic format with one line of code(Not 
 
 <b>Technologies</b>: JavaScript, Git, Git CLI
 
-<a href="https://github.com/MakanaMakesStuff/msort">Learn more</a>
+<a href="https://github.com/MakanaMakesStuff/msort" target="_blank">Learn more</a>
 
 #### TypeOut.js
 Add stylization and dynamic appeal to text on your webpage. TypeOut.js will type out any specified text at an inputted speed.
@@ -56,9 +56,9 @@ Add stylization and dynamic appeal to text on your webpage. TypeOut.js will type
 
 <b>Technologies</b>: JavaScript, Django, Python, Heroku, Heroku CLI, Git, Git CLI, Html + Css
 
-<a href="https://github.com/MakanaMakesStuff/TypeOut.js">TypeOut.js GitHub repo</a>
+<a href="https://github.com/MakanaMakesStuff/TypeOut.js" target="_blank">TypeOut.js GitHub repo</a>
 
-<a href="https://typeoutjs.herokuapp.com/home/">TypeOut.js website</a>
+<a href="https://typeoutjs.herokuapp.com/home/" target="_blank">TypeOut.js website</a>
 
 #### Online Portfolio
 This is my online portfolio that I have hosted on heroku and also GitHub pages(with functional contact form)
@@ -69,9 +69,9 @@ I initially deployed my website onto heroku, but later decided that the dependen
 
 <b>Technologies</b>: JavaScript, NodeJS, Express, Compress, Heroku, Heroku CLI, Git, Git CLI, Html + Css, Google Forms
 
-<a href="https://makanamakesstuff.github.io/makanaedwards/">GitHub host</a>
+<a href="https://makanamakesstuff.github.io/makanaedwards/" target="_blank">GitHub host</a>
 
-<a href="https://makanaedwards.herokuapp.com">Heroku host(Free Tier. Really slow)</a>
+<a href="https://makanaedwards.herokuapp.com" target="_blank">Heroku host(Free Tier. Really slow)</a>
 
 ### Current Projects
 
