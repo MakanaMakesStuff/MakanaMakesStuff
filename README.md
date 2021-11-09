@@ -75,6 +75,6 @@ I initially deployed my website onto heroku, but later decided that the dependen
 
 ### Current Projects
 
-## Black Bricks
+#### Black Bricks
 
 <img src="https://i.imgur.com/1wRsUJM.jpg"/>
