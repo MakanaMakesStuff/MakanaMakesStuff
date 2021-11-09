@@ -72,3 +72,9 @@ I initially deployed my website onto heroku, but later decided that the dependen
 <a href="https://makanamakesstuff.github.io/makanaedwards/">GitHub host</a>
 
 <a href="https://makanaedwards.herokuapp.com">Heroku host(Free Tier. Really slow)</a>
+
+### Current Projects
+
+## Black Bricks
+
+<img src="https://i.imgur.com/1wRsUJM.jpg"/>
