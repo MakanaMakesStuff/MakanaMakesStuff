@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Makana Edwards from Jacksonville, Florida and I'm a web/software developer and game creator.
 
-👨🏾‍💻 <b>Web Dev: </b>( Vue | Vite | NodeJS | Express | Compress |  Django | Python | Heroku | MySQL | AWS S3 | TypeScript | JavaScript | HTML | CSS | Git | Git CLI )
+👨🏾‍💻 <b>Web Dev: </b>( Vue | Vite | NodeJS |  Django | Python | Heroku | MySQL | AWS S3 | TypeScript | JavaScript | HTML | CSS | Git | Git CLI )
 
 💻 <b>Software Dev: </b>( Python | Selenium | Chrome Driver )
 
