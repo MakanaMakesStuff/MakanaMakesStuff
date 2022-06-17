@@ -38,6 +38,18 @@ This software allows a user to automatically like and follow other Instagram use
 
 <a href="https://github.com/MakanaMakesStuff/Instagram-bot/" target="_blank">Learn more</a>
 
+#### ImageMap
+A simple image map component, which takes coordinates and maps interact-able areas to an image. Not to be confused with an html map element, this method allows for styling of interact-able areas as opposed to using an area map
+<p align="center">
+  
+https://user-images.githubusercontent.com/37227196/174413313-66589420-9025-49bd-a7fc-7cc4299fa7b8.mp4
+  
+</p>
+
+<b>Technologies</b>: Typescript, Vite
+
+<a href="https://github.com/MakanaMakesStuff/Canvas-Image-Map" target="_blank">Learn more</a>
+
 #### Msort.js
 Style your image gallery in a beautiful mosaic format with one line of code(Not Ratio Algorithm)
 <p align="center">
