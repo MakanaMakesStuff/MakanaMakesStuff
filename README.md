@@ -9,7 +9,7 @@ My name is Makana Edwards from Jacksonville, Florida and I'm a web/software deve
 
 - 🔭 I’m currently working on building my portfolio 
 - 🌱 I’m currently learning Full Stack development and UI design 
-- 👯 I’m looking to collaborate on any website, software, or game. 
+- 🤓 I’m looking to collaborate on any website, software, or game. 
 - 📫 How to reach me: makrigamedeveloping@gmail.com
 
 ### Recent Projects
