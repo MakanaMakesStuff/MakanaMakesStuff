@@ -27,7 +27,7 @@ Turn is a 2D casual game that involves progressively difficult levels and a uniq
 
 <a href="https://play.google.com/store/apps/details?id=com.Makri.Turn" target="_blank">Learn more</a>
 
-### Union League at Philidelphia
+### Union League at Philadelphia
 I am actively building out the frontend for the #1 City Club in the Country
 
 ![image](https://user-images.githubusercontent.com/37227196/181117922-fa5beb23-af01-48a3-85cf-6d3007c7fc90.png)
