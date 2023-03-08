@@ -12,6 +12,8 @@ My name is Makana Edwards from Jacksonville, Florida and I'm a web/software deve
 - 🤓 I’m looking to collaborate on any website, software, or game. 
 - 📫 How to reach me: makrigamedeveloping@gmail.com
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MakanaMakesStuff&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ### Recent Projects
 
 #### Turn
