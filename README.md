@@ -32,8 +32,24 @@ Turn is a 2D casual game that involves progressively difficult levels and a uniq
 
 <a href="https://play.google.com/store/apps/details?id=com.Makri.Turn" target="_blank">Learn more</a>
 
+### The Cliffs
+From figma to fully functional frontend application. The Cliffs was the first website I worked on in a professional setting.
+
+![image](https://user-images.githubusercontent.com/37227196/229135890-15590c9b-aa3c-492f-9530-8f5d8be22f38.png)
+#### NOTE: Can't show the full site for privacy reasons.
+
+<a href="https://members.cliffsliving.com/" target="_blank">Open Website</a>
+
+### The Carriage House
+From pdf design to a fully functional frontend application. The Carriage House is another one of the websites I enjoyed working on.
+
+![image](https://user-images.githubusercontent.com/37227196/229137252-19efd0cb-f64b-40fb-b75e-92f520c20854.png)
+#### NOTE: Can't show the full site for privacy reasons.
+
+<a href="https://members.carriagehousepb.com" target="_blank">Open Website</a>
+
 ### Union League at Philadelphia
-I am actively building out the frontend for the #1 City Club in the Country
+I built the frontend for the #1 City Club in the Country
 
 ![image](https://user-images.githubusercontent.com/37227196/181117922-fa5beb23-af01-48a3-85cf-6d3007c7fc90.png)
 
