@@ -14,9 +14,6 @@ I'm a Web/Software developer and game creator located in Jacksonville, Florida(T
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MakanaMakesStuff&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=MakanaMakesStuff&theme=dark&show_icons=true&locale=en)
-
 ### Recent Projects
 
 #### Turn
