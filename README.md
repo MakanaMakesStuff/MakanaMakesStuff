@@ -66,7 +66,7 @@ This software allows a user to automatically like and follow other Instagram use
 A simple image map component, which takes coordinates and maps interact-able areas to an image. Not to be confused with an html map element, this method allows for styling of interact-able areas as opposed to using an area map
 <p align="center">
   
-https://user-images.githubusercontent.com/37227196/174413313-66589420-9025-49bd-a7fc-7cc4299fa7b8.mp4
+[https://user-images.githubusercontent.com/37227196/174413313-66589420-9025-49bd-a7fc-7cc4299fa7b8.mp4](https://github.com/MakanaMakesStuff/Canvas-Image-Map/assets/37227196/7a83ea40-3782-4c57-8534-c25d64390c6d)
   
 </p>
 
