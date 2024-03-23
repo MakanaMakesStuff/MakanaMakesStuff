@@ -20,9 +20,9 @@ I'm a Web/Software developer and game creator located in Jacksonville, Florida(T
 Turn is a 2D casual game that involves progressively difficult levels and a unique gameplay mechanic
 
 <p>
-<img src="https://play-lh.googleusercontent.com/Jpt_RtpiyPYvHBYeQ5f9WUCfs5oCV7NBqSMpefCyJBCiqxEbcimDrNGKqBEcMAryAg=w856-h440" width="32%" height="auto"/>
-<img src="https://play-lh.googleusercontent.com/obvC250wocwxbcI1Vi15DuwKQdwtuI0EZV2Y_2-4Xm4uwagigVbro2zbyFkur26pWiA=w2568-h5556" width="32%" height="auto"/>
-<img src="https://play-lh.googleusercontent.com/BVcYTivtjpyhabGG2-TXWwgmvq2QyP-Dk-rSL6TrVFBcdeRmPI6b3z2KlQyaKTzlyg=w2568-h5556" width="32%" height="auto"/>
+  <img alt="menu" src="https://github.com/MakanaMakesStuff/MakanaMakesStuff/assets/37227196/7cfa4aca-67e2-4607-8153-9cb6151bba09" width="32%" height="auto"/>
+  <img alt="level7" src="https://github.com/MakanaMakesStuff/MakanaMakesStuff/assets/37227196/6de6fa13-a98e-459f-bce8-7539e91b9211" width="32%" height="auto"/>
+  <img alt="victory" src="https://github.com/MakanaMakesStuff/MakanaMakesStuff/assets/37227196/e9f1db39-20d9-41a5-98e9-21d09a01ca0c" width="32%" height="auto"/>
 </p>
 
 <b>Technologies</b>: Unity3D, Unity Ads, C#, JavaScript, Photoshop
