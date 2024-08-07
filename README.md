@@ -27,8 +27,6 @@ Turn is a 2D casual game that involves progressively difficult levels and a uniq
 
 <b>Technologies</b>: Unity3D, Unity Ads, C#, JavaScript, Photoshop
 
-<a href="https://play.google.com/store/apps/details?id=com.Makri.Turn" target="_blank">Learn more</a>
-
 ### The Cliffs
 From figma to fully functional frontend application. The Cliffs was the first website I worked on in a professional setting.
 
