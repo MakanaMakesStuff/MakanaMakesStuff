@@ -15,11 +15,6 @@ I'm a Web/Software developer and game creator located in Jacksonville, Florida(T
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MakanaMakesStuff&theme=dark&background=000000)](https://git.io/streak-stats)
 
 #### Online Portfolio
-This is my online portfolio that I have hosted on GitHub pages.
-<p align="center">
-<img width="50%" src="https://i.imgur.com/e6NTHG3_d.webp?maxwidth=640&shape=thumb&fidelity=medium"/>
-</p>
-
+Hey! Visit my portfolio hosted on github pages.
 <b>Technologies</b>: NextJS, React, Chakra UI, TypeScript, and Sass
-
 <a href="https://makanamakesstuff.github.io/portfolio-site/" target="_blank">Visit Site</a>
