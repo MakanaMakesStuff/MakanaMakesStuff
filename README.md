@@ -16,5 +16,7 @@ I'm a Web/Software developer and game creator located in Jacksonville, Florida(T
 
 #### Online Portfolio
 Hey! Visit my portfolio hosted on github pages.
+
 <b>Technologies</b>: NextJS, React, Chakra UI, TypeScript, and Sass
+
 <a href="https://makanamakesstuff.github.io/portfolio-site/" target="_blank">Visit Site</a>
