@@ -103,9 +103,7 @@ I initially deployed my website onto heroku, but later decided that the dependen
 
 <b>Technologies</b>: JavaScript, NodeJS, Express, Compress, Heroku, Heroku CLI, Git, Git CLI, Html + Css, Google Forms
 
-<a href="https://makanamakesstuff.github.io/portfolio-site/" target="_blank">Visit Site(Built with vite and uses vue-router)</a>
-
-<a href="https://makanamakesstuff.github.io/makanaedwards/" target="_blank">Visit Old Site(Using Basic Html and CSS)</a>
+<a href="https://makanamakesstuff.github.io/portfolio-site/" target="_blank">Visit Site(Nextjs, React, Chakra-UI)</a>
 
 ### Current Projects
 
