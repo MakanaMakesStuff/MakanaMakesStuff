@@ -1,31 +1,28 @@
 # Makana Edwards
-Senior Frontend Engineer
+Frontend / Full-Stack Engineer
 
-Frontend / Full-Stack engineer with 4+ years building production systems
-using React, Next.js, and GraphQL.
+Frontend engineer with 4+ years building production systems using
+React, Next.js, and GraphQL.
 
-## Specializations
+Currently building large-scale club management software at ClubLISI.
 
-• React architecture
-• GraphQL + Apollo Client caching
-• Next.js application design
-• Headless WordPress + GraphQL APIs
-• Performance optimization
+## Tech Focus
 
-## Professional Experience
+React  
+Next.js  
+TypeScript  
+GraphQL  
+Apollo Client  
+Docker  
 
-Frontend Engineer @ ClubLISI (2021–Present)
+## What I Work On
 
-Working on a large-scale sports club management platform including:
+• Scalable React architectures  
+• GraphQL + Apollo Client caching strategies  
+• Headless WordPress integrations  
+• Frontend performance optimization  
 
-• reservation systems
-• check-in management
-• administrative dashboards
-• client-facing portals
+## Links
 
-## Technologies
-
-React • Next.js • TypeScript • GraphQL  
-Apollo Client • Node.js • Docker • WordPress
-
-## Featured Projects
+Portfolio: https://makanamakesstuff.github.io/portfolio-2025  
+LinkedIn: https://www.linkedin.com/in/makanaokeakua
