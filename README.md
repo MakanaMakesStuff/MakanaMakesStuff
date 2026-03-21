@@ -1,5 +1,4 @@
-### **Frontend / Full-Stack Engineer** *Specializing in building high-performance React architectures and scalable applications.*
-
+### **Frontend / Full-Stack Engineer**
 I’m a developer with nearly 5 years of experience turning complex requirements into smooth, production-grade systems. Currently, I'm spending my days contruibuting at **ClubLISI**.
 
 ---
