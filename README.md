@@ -1,12 +1,10 @@
-# Hi there, I'm Makana! 👋
-
 ### **Frontend / Full-Stack Engineer**
 I’m a developer with nearly 5 years of experience turning complex requirements into smooth, production-grade systems. Currently, I'm spending my days contributing at **ClubLISI**.
 
 <table border="0">
   <tr>
     <td width="55%" valign="top">
-      <h3>🚀 What I’m Focused On</h3>
+      <h3>What I’m Focused On</h3>
       <ul>
         <li><strong>Scalable React Architectures:</strong> Building systems that scale efficiently.</li>
         <li><strong>Performance Optimization:</strong> Making things load and feel snappy.</li>
@@ -15,14 +13,14 @@ I’m a developer with nearly 5 years of experience turning complex requirements
       </ul>
     </td>
     <td width="45%" valign="top">
-      <h3>📈 GitHub Stats</h3>
+      <h3>📈GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makanamakesstuff&layout=compact&theme=transparent" alt="Top Langs" />
     </td>
   </tr>
 </table>
 
 
-## 🛠 My Tech Toolbox
+## My Tech Toolbox
 
 | **Frontend** | **Backend & Data** | **Infrastructure & Tools** |
 | :--- | :--- | :--- |
@@ -32,7 +30,7 @@ I’m a developer with nearly 5 years of experience turning complex requirements
 
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 If you want to talk about **Apollo Client**, **State Management**, **Next.js**, **Containerization**, or implementing **CI/CD**, reach out!
 
