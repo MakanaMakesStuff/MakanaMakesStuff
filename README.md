@@ -1,7 +1,26 @@
-### **Frontend / Full-Stack Engineer**
-I’m a developer with nearly 5 years of experience turning complex requirements into smooth, production-grade systems. Currently, I'm spending my days contruibuting at **ClubLISI**.
+# Hi there, I'm Makana! 👋
 
----
+### **Frontend / Full-Stack Engineer**
+I’m a developer with nearly 5 years of experience turning complex requirements into smooth, production-grade systems. Currently, I'm spending my days contributing at **ClubLISI**.
+
+<table border="0">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🚀 What I’m Focused On</h3>
+      <ul>
+        <li><strong>Scalable React Architectures:</strong> Building systems that scale efficiently.</li>
+        <li><strong>Performance Optimization:</strong> Making things load and feel snappy.</li>
+        <li><strong>GraphQL Strategies:</strong> Deep-diving into Apollo Client caching.</li>
+        <li><strong>Headless Integrations:</strong> Marrying WordPress flexibility with modern frameworks.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h3>📈 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makanamakesstuff&layout=compact&theme=transparent" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🛠 My Tech Toolbox
 
@@ -11,21 +30,7 @@ I’m a developer with nearly 5 years of experience turning complex requirements
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Apollo](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=apollographql&logoColor=white) | ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Headless CMS](https://img.shields.io/badge/Headless-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) | ![Distributed Systems](https://img.shields.io/badge/System-Architecture-orange?style=flat-square) |
 
----
 
-## What I’m Focused On
-
-* **Scalable React Architectures:** Building systems scale
-* **Performance Optimization:** Making things load a little better
-* **GraphQL Strategies:** Deep-diving into Apollo Client caching to minimize redundant network calls
-* **Headless Integrations:** Marrying the flexibility of WordPress with the speed of modern frontend frameworks
-
----
-
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makanamakesstuff&layout=compact&theme=transparent)
-
----
 
 ## 📫 Let's Connect
 
