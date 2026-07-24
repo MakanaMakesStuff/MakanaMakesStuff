@@ -15,7 +15,7 @@ I'm a developer with nearly 5 years of experience turning complex requirements i
     </td>
     <td width="45%" valign="top">
       <h3>📈 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makanamakesstuff&layout=compact&theme=transparent" alt="Top Langs" />
+      ![GitHub Stats Card](https://ghstats.dev/api/card?username=MakanaMakesStuff&theme=palenight)
     </td>
   </tr>
 </table>
